@@ -57,6 +57,16 @@ collections:
   zh-tw:
     output: true
     permalink: zh-tw/lesson/:name/
+  pl:
+    output: true
+    permalink: pl/lesson/:name/
+  de:
+    output: true
+    permalink: de/lesson/:name/
+  vi-vn:
+    output: true
+    permalink: vi-vn/lesson/:name/    
+    
 
 defaults:
   - scope:
@@ -99,4 +109,19 @@ defaults:
       type: "zh-tw"
     values:
       locale: "zh-tw"
+  - scope:
+      path: ""
+      type: "pl"
+    values:
+      locale: "pl"
+  - scope:
+      path: ""
+      type: "de"
+    values:
+      locale: "de"
+  - scope:
+      path: ""
+      type: "vi-vn"
+    values:
+      locale: "vi-vn"      
       
