@@ -76,7 +76,7 @@
         startingText:
           "[Schwarze Katze][]\n\n[Orange Katze][Orange]\n\n[Schwarz]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg",
         renderedAnswer:
-          '<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg" alt="Schwarze Katze"></p>\n<p><img src="http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png" alt="Orange Katze"></p>',
+          '<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg" alt="Schwarze Katze"></p>\n<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png" alt="Orange Katze"></p>',
       },
     },
     5: {
